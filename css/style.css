@@ -18,3 +18,8 @@ h1 {
     display: block;
     border: 2px solid green;
 }
+
+.test h1 {
+    display: inline-block;
+    border: 2px solid yellow;
+}
