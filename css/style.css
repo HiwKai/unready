@@ -23,3 +23,12 @@ h1 {
     display: inline-block;
     border: 2px solid yellow;
 }
+
+.test h2 {
+    display: block;
+    border: 2px solid green;
+}
+
+.link a {
+    text-decoration: underline;
+}
